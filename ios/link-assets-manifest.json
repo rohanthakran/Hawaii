@@ -1,0 +1,73 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/asset/fonts/IBMPlexMono-Bold.ttf",
+      "sha1": "a921db7a8850fe3ccf326f419e48eb29241c8a8a"
+    },
+    {
+      "path": "src/asset/fonts/IBMPlexMono-Light.ttf",
+      "sha1": "da990b8b0bd975df8a0b53ea8d65cc7e4d082f0d"
+    },
+    {
+      "path": "src/asset/fonts/IBMPlexMono-Medium.ttf",
+      "sha1": "8ac7cc2c8aa81ca5b8ef26a4a15f4b0adc4569e7"
+    },
+    {
+      "path": "src/asset/fonts/IBMPlexMono-Regular.ttf",
+      "sha1": "e1293fd8cce199a8bddb604e44d4af132911bd73"
+    },
+    {
+      "path": "src/asset/fonts/IBMPlexMono-SemiBold.ttf",
+      "sha1": "10ef9e95ab5d667a14a5492795fb7a934d4f09dc"
+    },
+    {
+      "path": "src/asset/fonts/IBMPlexMono-Thin.ttf",
+      "sha1": "a1f62a1f07c283ade67a0516a5ad542adb546d7e"
+    },
+    {
+      "path": "src/asset/fonts/Montserrat-Bold.ttf",
+      "sha1": "04052dc3b846609216de1e0cbcec337c6b6e74f6"
+    },
+    {
+      "path": "src/asset/fonts/Montserrat-Medium.ttf",
+      "sha1": "6b57d12e018c64352e202f8ef3bf7f431f76d935"
+    },
+    {
+      "path": "src/asset/fonts/Montserrat-Regular.ttf",
+      "sha1": "de57aa03e4821fdbe6c34ec2c895e8b5c914e837"
+    },
+    {
+      "path": "src/asset/fonts/PlaywritePT-Regular.ttf",
+      "sha1": "7e9712a425d2bc73d04ced3d6a42179bfeaa3c9d"
+    },
+    {
+      "path": "src/asset/fonts/PlaywriteUSTrad-Regular.ttf",
+      "sha1": "80f494a7514dd05af54b4d21620c083302d9d368"
+    },
+    {
+      "path": "src/asset/fonts/Roboto-Bold.ttf",
+      "sha1": "62442a18a9fe9457c1afeabf683d263a691b7798"
+    },
+    {
+      "path": "src/asset/fonts/Roboto-Light.ttf",
+      "sha1": "18788c5d630fa695f9283f6393bfa541b2031508"
+    },
+    {
+      "path": "src/asset/fonts/Roboto-Medium.ttf",
+      "sha1": "3c6a09fcc6a454924c81af7dff94fc6d399ed79b"
+    },
+    {
+      "path": "src/asset/fonts/Roboto-MediumItalic.ttf",
+      "sha1": "b3aa2d8f16d5a331fdced82f213a052b204eaca0"
+    },
+    {
+      "path": "src/asset/fonts/Roboto-Regular.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    },
+    {
+      "path": "src/asset/fonts/Roboto-Thin.ttf",
+      "sha1": "58c733e22bceeaf9609ce578eca92ac303c6d92f"
+    }
+  ]
+}
